@@ -1,2 +1,5 @@
 // Start your code here
-select * from as;
+DECLARE
+BEGIN
+END;
+/
